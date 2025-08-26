@@ -1,0 +1,11 @@
+Age,Department,JobRole,MonthlyIncome,OverTime,YearsAtCompany,JobSatisfaction,Education,DistanceFromHome,Attrition
+35,Sales,Sales Executive,4200,Yes,3,3,3,5,No
+29,Research & Development,Laboratory Technician,3500,No,2,2,2,8,Yes
+41,Research & Development,Research Scientist,6200,Yes,6,4,4,2,No
+24,Human Resources,Human Resources,2800,Yes,1,1,2,12,Yes
+37,Research & Development,Research Scientist,6800,No,8,3,3,3,No
+30,Sales,Sales Representative,3100,No,1,2,3,15,Yes
+46,Sales,Manager,8200,No,10,4,4,7,No
+22,Human Resources,Human Resources,2600,Yes,1,2,2,18,Yes
+33,Research & Development,Research Scientist,5400,No,5,3,3,9,No
+28,Sales,Sales Executive,3900,Yes,2,3,3,11,Yes

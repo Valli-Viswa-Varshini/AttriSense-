@@ -1,0 +1,11 @@
+Age,Department,JobRole,MonthlyIncome,OverTime,YearsAtCompany,JobSatisfaction,Education,DistanceFromHome
+40,Research & Development,Data Analyst,5800,Yes,7,4,4,6
+25,Sales,Account Executive,3100,No,2,3,3,10
+38,Human Resources,HR Coordinator,4500,Yes,6,3,3,8
+29,Research & Development,Software Engineer,5200,No,3,4,4,5
+33,Sales,Sales Associate,4000,Yes,4,2,3,12
+42,Research & Development,Project Manager,7500,No,9,5,5,7
+27,Human Resources,Recruiter,3300,Yes,1,3,3,15
+36,Sales,Sales Manager,6800,No,8,4,4,9
+31,Research & Development,Quality Analyst,4700,Yes,5,3,3,4
+24,Human Resources,HR Assistant,2900,No,1,2,2,11
